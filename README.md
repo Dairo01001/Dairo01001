@@ -1,4 +1,4 @@
-### Hi 👋, I'am Dairo García Naranjo
+### Hola, Soy Dairo García Naranjo! 👋
 
 ```javascript
 const AboutMe = {
@@ -15,6 +15,7 @@ const AboutMe = {
     testing: ['Jest'],
     dataBases: ['MongoDB', 'Postgress', 'FireBase'],
     versionControl: ['Git', 'GitHub'],
+    other: ['bash', 'ubuntu'],
   },
   contactInformation: {
     email: 'garcianaranjodairo@gmail.com',
