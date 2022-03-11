@@ -19,7 +19,7 @@ const AboutMe = {
   fullName: "Dairo Garcia Naranjo",
   learning: learning("Scrum"),
   techSkills: {
-    programmingLanguages: [["JavaScrip", "TypeScrip"], "Java", "Python", "C++"],
+    programmingLanguages: [["JavaScript", "TypeScript"], "Java", "Python", "C++"],
     webTechnologies: {
       fronEnd: ["ReactJS", "Redux", "CSS", "HTML", "Material UI"],
       backEnd: ["NodeJS", "mongoose", "express", "sequelize"],
