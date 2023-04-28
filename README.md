@@ -1,52 +1,20 @@
-### Hola, Soy Dairo García Naranjo! 👋
+<h2> Hi, I'm Dairo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
----
-
-### Github Stats:
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dairo01001&layout=compact&theme=radical&card_width=450em)](https://github.com/babaquero07/Dairo01001/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dairo01001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
-
----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const AboutMe = {
-  title: "Full Stack Developer",
-  fullName: "Dairo Garcia Naranjo",
-  learning: learning("Scrum"),
-  techSkills: {
-    programmingLanguages: [["JavaScript", "TypeScript"], "Java", "Python", "C++"],
-    webTechnologies: {
-      fronEnd: ["ReactJS", "Redux", "CSS", "HTML", "Material UI"],
-      backEnd: ["NodeJS", "mongoose", "express", "sequelize"],
-      deploy: ["Vercel", "Heroku"],
+const dairodev = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "c++", "CSS", "HTML"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Nest", "Express", "Sequelize", "Prisma"],
+        },
+        frontEnd: {
+            js: ["React", "Next", "Redux", "Tailwind", "Material UI"]
+        },
+        databases: ["mongo", "MySql", "postgres"],
     },
-    testing: ["Jest"],
-    dataBases: ["MongoDB", "Postgress", "FireBase"],
-    versionControl: ["Git", "GitHub"],
-    other: ["bash", "ubuntu"],
-  },
-  contactInformation: {
-    email: "garcianaranjodairo@gmail.com",
-    GitHub: "https://github.com/Dairo01001",
-  },
-  contact: () => sendEmail("msg"),
-  hobbies: {
-    competitiveProgramming: {
-      pagesOfInteres: [
-        "https://redprogramacioncompetitiva.com/",
-        "https://vjudge.net/",
-        "https://www.beecrowd.com.br/",
-      ],
-      description:
-        "Atualmente conformo uno de los equipos de programacion competitiva de la Universidad de la Amazonia",
-    },
-    read: reading("Código Limpio"),
-  },
 };
 ```
 
@@ -101,3 +69,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Github Stats:
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dairo01001&layout=compact&theme=radical&card_width=450em)](https://github.com/babaquero07/Dairo01001/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dairo01001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
+
+---
